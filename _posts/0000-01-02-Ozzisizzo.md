@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!md
+"Be as smart as you can, but remember that it is always better to be wise than smart" - Alan Alda
+<br>Use the left arrow to go back!md
